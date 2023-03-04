@@ -1,7 +1,6 @@
 package Codigos2;
 
 public class Test {
-
     int test = 3;
     short test1 =-32762;
     long test2 = 8;
@@ -12,4 +11,7 @@ public class Test {
     char test7 = 'a';
 
     String test8 = "5";
+    public void imprimirValores(){
+        System.out.println("Impresion de valores\t");
+    }
 }
