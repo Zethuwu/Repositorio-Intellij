@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="710c016e-1207-46b3-a3a4-5536508742b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/AccesoDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/CarroDeportivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/CarroNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/ImplementacionDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos6/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Multiplicacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Resta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Clase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Dato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/GeneradorDeReportes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Interfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos4/ObtenedorDeDatos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Codigos2/Ejercicio1Oscar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codigos2/Ejercicio1Oscar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +155,7 @@
       <workItem from="1677795460504" duration="9004000" />
       <workItem from="1677882048707" duration="2779000" />
       <workItem from="1677884837121" duration="8001000" />
-      <workItem from="1678140405226" duration="7585000" />
+      <workItem from="1678140405226" duration="14673000" />
     </task>
     <servers />
   </component>
