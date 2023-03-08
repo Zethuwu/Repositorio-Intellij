@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="710c016e-1207-46b3-a3a4-5536508742b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Multiplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Resta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/Suma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Clase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Dato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/GeneradorDeReportes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Interfaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos4/ObtenedorDeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos7/ClaseFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos7/Ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos7/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos7/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos7/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos7/Producto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codigos4/Calculadora/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codigos4/Calculadora/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,26 +59,13 @@
       <recent name="Codigos5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio4">
+  <component name="RunManager" selected="Application.Ejercicio1Oscar">
     <configuration name="Ejercicio1Oscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codigos2.Ejercicio1Oscar" />
       <module name="ProyectoGeneral" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Codigos2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ejercicio2Oscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codigos3.Ejercicio2Oscar" />
-      <module name="ProyectoGeneral" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codigos3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codigos7.Ejercicio5" />
+      <module name="ProyectoGeneral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codigos7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codigos4.main" />
       <module name="ProyectoGeneral" />
@@ -133,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio1Oscar" />
+        <item itemvalue="Application.Ejercicio5" />
         <item itemvalue="Application.Ejercicio4" />
         <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.Ejercicio2Oscar" />
-        <item itemvalue="Application.Ejercicio1Oscar" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +149,8 @@
       <workItem from="1677795460504" duration="9004000" />
       <workItem from="1677882048707" duration="2779000" />
       <workItem from="1677884837121" duration="8001000" />
-      <workItem from="1678140405226" duration="14673000" />
+      <workItem from="1678140405226" duration="14727000" />
+      <workItem from="1678226656911" duration="9142000" />
     </task>
     <servers />
   </component>
