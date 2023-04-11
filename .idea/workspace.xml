@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="710c016e-1207-46b3-a3a4-5536508742b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codigos/CorreoSevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos/FacturacionServiceAcoplado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos/FacturacionServiceDesacoplado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos/PagoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos/ValidacionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos7/Instructor/EjemploLista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos8/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos8/CalculadoraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codigos8/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos9/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codigos9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codigos/Clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codigos/Clase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +55,7 @@
       <recent name="Codigos5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CalculadoraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codigos8.CalculadoraTest" />
       <module name="ProyectoGeneral" />
@@ -90,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio1Oscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codigos2.Ejercicio1Oscar" />
+    <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codigos8.Ejercicio6" />
       <module name="ProyectoGeneral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codigos2.*" />
+          <option name="PATTERN" value="Codigos8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codigos8.Ejercicio6" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codigos9.Main" />
       <module name="ProyectoGeneral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Codigos8.*" />
+          <option name="PATTERN" value="Codigos9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.CalculadoraTest" />
         <item itemvalue="Application.Ejercicio6" />
         <item itemvalue="Application.EjemploLista" />
-        <item itemvalue="Application.Ejercicio1Oscar" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +150,10 @@
       <workItem from="1678313157803" duration="9546000" />
       <workItem from="1679443076622" duration="5573000" />
       <workItem from="1679522135797" duration="90000" />
-      <workItem from="1679962580536" duration="4715000" />
+      <workItem from="1679962580536" duration="5253000" />
+      <workItem from="1680131852821" duration="210000" />
+      <workItem from="1680568486827" duration="1851000" />
+      <workItem from="1681176110115" duration="1913000" />
     </task>
     <servers />
   </component>

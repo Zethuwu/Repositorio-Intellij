@@ -7,11 +7,9 @@ import static Codigos.Pelota.impresion;
 
 public class Clase1{
     // constructor de la clase
-
     public Clase1(){
 
     }
-
     String lb;
     double dou;
     public static void main(String[] args) {
