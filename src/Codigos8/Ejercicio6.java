@@ -15,7 +15,7 @@ public class Ejercicio6 {
         inst.QueueMetodo();
         //Map
         inst.mapMetodo();
-
+        //
         }
     public void QueueMetodo(){
         Queue<String> queue = new LinkedList<String>();
